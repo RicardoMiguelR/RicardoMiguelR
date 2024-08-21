@@ -1,9 +1,8 @@
 <h1 align="center">Hola! mi nombre es Ricardo Miguel</h1>
 <h3 align="center">Un Desarrollador de Software Full Stack de México, deseoso de contribuir con mis habilidades de resolución de problemas, espíritu de colaboración y pasión por el aprendizaje a un equipo.</h3>
 
-- :telescope: Actualmente me encuentro trabajando en **un proyecto para plataformas educativas que ayuda en la creación de listas de estudiantes usando el Stack MERN**
-- :seedling: Sigo desarrollando mis habilidades en **Java y Springboot.**
-- :dancers: Me encuentro colaborando **como desarrollador de frontend en un proyecto de e-commerce**
+- :telescope: Actualmente me encuentro colaborando como ** Backend Developer & Data Processor Manager ** en un proyecto de e-commerce en DNA NOVA**
+- :seedling: Sigo desarrollando mis habilidades en tecnologias como Java, Spring Boot, Swing, Angular, MVC, Stack MERN, MySQL, PostgreSQL, Express, Django, APIs RestFull, Visual Basic .NET, React JS, entre otras tecnologias más.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
