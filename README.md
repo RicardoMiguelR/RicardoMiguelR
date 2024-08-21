@@ -1,4 +1,4 @@
-<h1 align="center">Hola! mi nombre es Ricardo Miguel</h1>
+<h1 align="center">¡Hola! mi nombre es Ricardo</h1>
 <h3 align="center">Un Desarrollador de Software Full Stack de México, deseoso de contribuir con mis habilidades de resolución de problemas, espíritu de colaboración y pasión por el aprendizaje a un equipo.</h3>
 
 - :telescope: Actualmente me encuentro colaborando como ** Backend Developer & Data Processor Manager ** en un proyecto de e-commerce en DNA NOVA**
