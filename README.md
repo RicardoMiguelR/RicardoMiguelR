@@ -1,8 +1,7 @@
 <h1 align="center">¡Hola, mi nombre es Ricardo!</h1>
 <h3 align="center">Un Desarrollador de Software Full Stack de México, deseoso de contribuir con mis habilidades de resolución de problemas, espíritu de colaboración y pasión por el aprendizaje a un equipo. Siempre en constante aprendizaje, creciendo y aprendiendo nuevas tecnologias dia con dia</h3>
 
-- :seedling: Actualmente sigo reforzando mis habilidades y aprendiendo nuevas tecnologias como en NodeJS, Express, Arquitectura MVC, MySQL, MongoDB, PostgreSQL, APIs RestFull, Visual Basic .NET, React JS, entre otras tecnologias más.
-- :seedling: En conjunto, estoy actualmente iniciando en el mundo de la Ciberseguridad, realizando el curso de Ciberseguridad de Google Specialization, teniendo objetivos claros, como tener conocimientos y manejo del area de Ciberseguridad, en roles como Analista de Ciberseguridad, Pentester, Etical Hacker, entre otros
+- :seedling: Actualmente sigo reforzando mis habilidades en tecnologias como NodeJS, Express, Arquitectura MVC, MySQL, MongoDB, APIs RestFull, React JS, entre otras; y obteniendo nuevos conocimientos en Java, SpringBoot, POO, Authentication, entre otras mas.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
