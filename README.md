@@ -1,7 +1,5 @@
 <h1 align="center">
-  ¡Hola! 👋 Soy Ricardo
-  <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  ¡Hola! Soy Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 
 <h3 align="center">🚀 Desarrollador de Software Full Stack de México</h3>
@@ -11,8 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-RicardoMiguel-blue?style=flat-square&logo=linkedin" alt="linkedin badge"/>
   </a>
   <img src="https://img.shields.io/badge/Fullstack-Developer-0A66C2?style=flat-square&logo=github" alt="fullstack badge"/>
-  <img src="https://img.shields.io/badge/Backend-Java-ED8B00?style=flat-square&logo=java" alt="java badge"/>
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react" alt="react badge"/>
 </p>
 
 ---
@@ -44,7 +40,7 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ## 🛠️ Tecnologías y Herramientas:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mysql,mongodb,postgres,java,spring,python,git,github,postman,vscode,intellij,eclipse,netbeans" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,mysql,mongodb,postgres,java,spring,python,flask,linux,git,github,postman,vscode,intellij,eclipse,netbeans" alt="Tecnologías" />
 </p>
 
 ---
