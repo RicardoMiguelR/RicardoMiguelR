@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Javascript;Java;Python;React;MySQL;Spring+Boot;Mongo+DB;Tailwind+CSS;Flask;Figma;Node+Js;SQL;Express;Git;Postman;Github;!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ricardo%20Miguel%20Raya&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=30&desc=💻%20Desarrollador%20Full%20Stack%20|%2de%20México&descSize=14&descAlignY=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Miguel%20Raya&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20Fullstack%20de%20🚀%20México%20🇲🇽&descSize=15&descAlignY=55"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/ricardo-miguel-raya" target="_blank">
@@ -35,9 +35,16 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ---
 
+## ⏰ Esta Semana Programé:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RicardoMiguelR&theme=radical&layout=compact" alt="WakaTime Stats"/>
+</p>
+
+---
+
 ## 🏆 Logros en GitHub:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RicardoMiguelR&theme=radical&no-bg=true&no-frame=true" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RicardoMiguelR&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -57,20 +64,6 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ---
 
-## 🏔️ Contribuciones 3D:
-<p align="center">
-  <img src="https://github.com/RicardoMiguelR/RicardoMiguelR/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📈 Métricas Detalladas:
-<p align="center">
-<img src="https://metrics.lecoq.io/RicardoMiguelR?template=classic&config.timezone=America%2FMexico_City" alt="Metrics" width="100%"/>
-</p>
-
----
-
 ## 🔥 Racha de días activo:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoMiguelR&theme=radical" alt="streak stats"/>
@@ -78,9 +71,10 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ---
 
-## 👀 Visitas al Perfil:
+## 👁️ Visitas al Perfil:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RicardoMiguelR&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RicardoMiguelR&label=Visitantes&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRicardoMiguelR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false" alt="Hits"/>
 </p>
 
 ---
