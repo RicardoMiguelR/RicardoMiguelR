@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
+
 <h1 align="center">
   ¡Hola! Soy Ricardo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
@@ -11,6 +15,8 @@
   <img src="https://img.shields.io/badge/Fullstack-Developer-0A66C2?style=flat-square&logo=github" alt="fullstack badge"/>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Miguel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 ---
 
 <p align="center">
@@ -22,19 +28,10 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ## 🚀 Sobre mí:
 
-- 🌱 Reforzando habilidades en **Node.js**, **Express**, **Arquitectura MVC**, **Microservicios**, **MySQL**, **MongoDB**, **React JS**, **Java**, **Spring Boot**, **POO**, **Autenticación** y más.
-- 📚 Estudiante del Bootcamp "Desarrollador Java Fullstack" en [Generation México](https://mexico.generation.org/), a poco de egresar exitosamente.
+- 🌱 Reforzando habilidades en **Node.js**, **Express**, **Arquitectura MVC**, **Microservicios**, **MySQL**, **MongoDB**, **React JS**, **Java**, **Spring Boot**, **POO**, **Autenticación** **Next.js** y más.
+- 📚 Recientemente concluí el Bootcamp "Desarrollador Java Fullstack" en [Generation México](https://mexico.generation.org/) exitosamente.
 - 💬 Pregúntame sobre **desarrollo backend**, **frontend** y **bases de datos**.
 - 📫 Puedes encontrarme en [LinkedIn](https://linkedin.com/in/ricardo-miguel-raya).
-
----
-
-## 🌐 Conéctate conmigo:
-<p align="center">
-  <a href="https://linkedin.com/in/ricardo-miguel-raya" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" />
-  </a>
-</p>
 
 ---
 
@@ -60,6 +57,27 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ---
 
+## 📊 Actividad de GitHub:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoMiguelR&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏔️ Contribuciones 3D:
+<p align="center">
+  <img src="https://github.com/RicardoMiguelR/RicardoMiguelR/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📈 Métricas Detalladas:
+<p align="center">
+<img src="https://metrics.lecoq.io/RicardoMiguelR?template=classic&config.timezone=America%2FMexico_City" alt="Metrics" width="100%"/>
+</p>
+
+---
+
 ## 🔥 Racha de días activo:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoMiguelR&theme=radical" alt="streak stats"/>
@@ -73,11 +91,12 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-## 🐍 Snake Animación de Contributions:
-<p align="center">
-  <img src="https://github.com/RicardoMiguelR/RicardoMiguelR/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+</div>
 
 ---
 
