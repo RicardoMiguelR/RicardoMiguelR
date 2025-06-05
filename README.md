@@ -1,21 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Javascript;Java;Python;React;MySQL;Spring+Boot;Mongo+DB;Tailwind+CSS;Flask;Figma;Node+Js;SQL;Express;Git;Postman;Github;!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-<h1 align="center">
-  ¡Hola! Soy Ricardo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</h1>
-
-<h3 align="center">🚀 Desarrollador de Software Full Stack de México</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ricardo%20Miguel%20Raya&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=30&desc=💻%20Desarrollador%20Full%20Stack%20|%2de%20México&descSize=14&descAlignY=50"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/ricardo-miguel-raya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-RicardoMiguel-blue?style=flat-square&logo=linkedin" alt="linkedin badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Fullstack-Developer-0A66C2?style=flat-square&logo=github" alt="fullstack badge"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricardo%20Miguel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ---
 
