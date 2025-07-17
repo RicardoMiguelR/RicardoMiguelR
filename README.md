@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Javascript;Java;Python;React;MySQL;Spring+Boot;Mongo+DB;Tailwind+CSS;Flask;Figma;Node+Js;SQL;Express;Git;Postman;Github;!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Javascript;Java;Python;Django;React;MySQL;Spring+Boot;Mongo+DB;Tailwind+CSS;Flask;Figma;Node+Js;SQL;Express;Git;Postman;Github;!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Miguel%20Raya&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Desarrollador%20Fullstack%20de%20🚀%20México&descSize=18&descAlignY=45"/>
@@ -15,10 +15,11 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ## 🚀 Sobre mí:
 
-- 🌱 Reforzando habilidades en **Node.js**, **Express**, **Arquitectura MVC**, **Microservicios**, **MySQL**, **MongoDB**, **React JS**, **Java**, **Spring Boot**, **POO**, **Autenticación** **Next.js** y más.
-- 📚 Recientemente concluí el Bootcamp "Desarrollador Java Fullstack" en [Generation México](https://mexico.generation.org/) exitosamente.
-- 💬 Pregúntame sobre **desarrollo backend**, **frontend** y **bases de datos**.
-- 📫 Puedes encontrarme en:
+- Reforzando habilidades en **Node.js**, **Express**, **Arquitectura MVC**, **Microservicios**, **MySQL**, **MongoDB**, **Django**, **React JS**, **Java**, **SQL**, **Spring Boot**, **POO**, **Seguridad**, **Next.js** y más.
+- Recientemente concluí el Bootcamp "Desarrollador Java Fullstack" en [Generation México](https://mexico.generation.org/) exitosamente.
+- Experiencia como **Desarrollador Fullstack** en **Consultores e Investigadores en Administracion (Coninves)**. 
+- Pregúntame sobre **desarrollo backend**, **frontend** y **bases de datos**.
+- Puedes encontrarme en:
 
 <p align="start">
   <a href="https://linkedin.com/in/ricardo-miguel-raya" target="_blank">
@@ -30,7 +31,7 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ## 🛠️ Tecnologías y Herramientas:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,pug,css,bootstrap,tailwind,js,react,nodejs,jest,mysql,mongodb,postgres,java,spring,python,flask,linux,git,github,postman,figma,vscode,eclipse" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,pug,css,bootstrap,tailwind,js,react,nodejs,jest,docker,mysql,mongodb,postgres,java,spring,python,django,flask,linux,git,github,postman,figma,vscode,eclipse%22%20alt=%22Tecnolog%C3%ADas" />
 </p>
 
 ---
@@ -61,10 +62,6 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RicardoMiguelR&label=Visitantes&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
-
----
-
-> _"El éxito no es el final, el fracaso no es fatal: es el coraje de continuar lo que cuenta."_ 
 
 ---
 
