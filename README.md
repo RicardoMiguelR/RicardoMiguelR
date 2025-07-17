@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Javascript;Java;Python;Django;React;MySQL;Spring+Boot;Mongo+DB;Tailwind+CSS;Flask;Figma;Node+Js;SQL;Express;Git;Postman;Github;!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Javascript;Java;Python;Django;React;MySQL;Spring+Boot;Mongo+DB;Tailwind+CSS;Flask;Figma;Node+Js;SQL;Express;Git;Postman;Github;!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Miguel%20Raya&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Desarrollador%20Fullstack%20de%20🚀%20México&descSize=18&descAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ricardo%20Miguel%20Raya&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Desarrollador%20Fullstack%20&descSize=18&descAlignY=45"/>
 
 ---
 
