@@ -15,9 +15,9 @@ Apasionado por el aprendizaje constante, deseoso de contribuir con mis habilidad
 
 ## 🚀 Sobre mí:
 
-- Reforzando habilidades en **Node.js**, **Express**, **Arquitectura MVC**, **Microservicios**, **MySQL**, **MongoDB**, **Django**, **React JS**, **Java**, **SQL**, **Spring Boot**, **POO**, **Seguridad**, **Next.js** y más.
-- Recientemente concluí el Bootcamp "Desarrollador Java Fullstack" en [Generation México](https://mexico.generation.org/) exitosamente.
-- Experiencia como **Desarrollador Fullstack** en **Consultores e Investigadores en Administracion (Coninves)**. 
+- Reforzando habilidades en **Node.js**, **Express**, **Arquitectura MVC**, **Microservicios**, **MySQL**, **MongoDB**, **Django**, **React JS**, **Java**, **SQL**, **Spring Boot**, **POO**, **Seguridad**, **Next.js**, **Contenedores** y más.
+- Último Bootcamp concluido en el mes de julio, certificación en "Desarrollador Java Fullstack" en [Generation México](https://mexico.generation.org/).
+- Actualmente me encuentro laborando en un formato 100% presencial como **Desarrollador Fullstack** en **Consultores e Investigadores en Administracion S.C.** 
 - Pregúntame sobre **desarrollo backend**, **frontend** y **bases de datos**.
 - Puedes encontrarme en:
 
